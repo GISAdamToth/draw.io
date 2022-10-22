@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T22:24:45.379Z" agent="5.0 (Windows)" etag="kALtaKQ07DpysTtzv4SK" version="20.4.1" type="github"><diagram id="tX4j038CA_heK1llqfKf" name="Page-1">7ZrLcuI4FIafxsvpQhaGsASS9Cx6KjVFX9YCC1vdQnLLAkKefo5scTESxKRtkqmiUkWsY9lI3+/zWxcCPF48f1YkS/+RMeVB2ImfA3wfhCHCIXyawKYM9HFZThSLbZV9YMJeqA12bHTJYppXKmopuWZZNTiTQtCZrsSIUnJdrTaXvPqtGUmoE5jMCHejP1is0zJ6F/b38b8pS9LtN6PeoDyzINvKtid5SmK5PgjhhwCPlZS6PFo8jyk36LZcyuseT5zdNUxRoetckMynye/Jl6f4ZZQP58OvP0Zq+pcVZ0X40nbYNlZvtgSUXIqYmpt0Ajxap0zTSUZm5uwaFIdYqhccSggO54zzseRSFdfix87j43gMcfs1VGn6fLL9aEcFHiYqF1SrDVSxF3Qtx021uN6r0u/ZWHqgSH/Ln9gnIdndeQ8LDiyvC9ihwSXwUA14UmibAShqBhq6q1LD2MWGkQcbag3b9sbNPXPNYwtRt4otcrGFYc/FhlujhhxqXzcZNU2US2Wcjalcw//fS5prJkXRMEUdtABFV/kpmrMXMi0qGNxkqWVueZoiZ4mA4xmwo5DXI0OWgUMO7YkFi2Nz8SiTTOii49EoiO6P7EBIYSrlWslf9ChY1fu9BPXlQWuC4obNowWzQIO6ZoHaotRt2Cuafw+hTs0XUbctRr3XGdEYBjW2KJVOZSIF4Q/76FEG7ut8kTKz7H5SrTc2L41H+MiaLzrPFdoFhjWjZzoUlfU0UQnVrz0crk6KcqLZqtqOxqlHHuo9bqw1Zis4TMzhv5OlWlHTqOAhDCC9BtgAoMaol5lplojN2BgcOBF7L88z6AAxTcjt9eWdoaEHNz9l7V6H9Tix/xUadrdle2N0zvKdl0MDCYajqld7rHo3OrlKgt05Un8TmmkO6dKOBJ33lqB/5HHI43EeBdobatfwuLeOGQvaLQwxQg801L3mEAP1HWp2zKhT8wmjNSVv48QPLqLrPo5WCXDJTvbeLo1Y5YJdll5AJXrdDyLcjCF8y6l6mv40azlhh5Mp5eWlT9CzFaNr23YOmZ1KHlNVXeARZGF7+Z0oVvS5iJ9l3D/ovdXkbCbUtff6KeGzKwm157xYMkqhHhVvfeTPPFeu5AeS3jWjKBQPRD0r8r0dCDUvMercND5Oa8/07vqSD2GSsXmhrWiObpqfnOO/b54TTVpRPLwp7ry8+x9BceAJJamIbifV8U14Zx7d+wjCT6jWTCR5K6p3b6o7y5Oe5ZL2VK+5eWGnLK1t+RgJt4sldmmyFuDLJoNdz1LvlXeB3F2DcSplbmbzxMzry+m9nJuyyNfm2R06qP8PU3tX0FZm+8d7yp7Z/uCas/3Qt6z8R5lyFZB4cJwpkQPSt2rS3iZzjY0jDe8ZkZx08csgHv3wAQ3NX7EZoMAszX4svs/l0sBoZBMKRVXgKPzkIvft1UVvsf39r1SKcwe/9MEP/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-22T22:29:00.404Z" agent="5.0 (Windows)" etag="FMueBpTsQEKia3nHC1Nb" version="20.4.1" type="github">
+  <diagram id="tX4j038CA_heK1llqfKf" name="Page-1">
+    <mxGraphModel dx="981" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F0FFCC;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="760" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="180" y="330" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="214" y="350" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-21" value="Type your first question here" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="214" y="350" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="190" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-5" value="&lt;div&gt;QSurvey – set up and design your spatial survey&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="354" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-8" value="Untitled" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="110" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="214" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-17" value="Type the intro here" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="214" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillStyle=auto;" parent="1" vertex="1">
+          <mxGeometry x="214" y="400" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-23" value="Choose a type of answer:" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fillStyle=auto;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="210" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="394" y="405" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-24" value="" style="triangle;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=15;fillColor=#1A1A1A;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="415" y="412.5" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="gfbgqSLOdzBsAfATWBrb-18" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="250" y="110" width="530" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Overview" placeholders="1" name="Variable" id="gfbgqSLOdzBsAfATWBrb-7">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" parent="gfbgqSLOdzBsAfATWBrb-18" vertex="1">
+            <mxGeometry width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Design" placeholders="1" name="Variable" id="gfbgqSLOdzBsAfATWBrb-10">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" parent="gfbgqSLOdzBsAfATWBrb-18" vertex="1">
+            <mxGeometry x="90" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Analyze" placeholders="1" name="Variable" id="gfbgqSLOdzBsAfATWBrb-11">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" parent="gfbgqSLOdzBsAfATWBrb-18" vertex="1">
+            <mxGeometry x="180" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Data" placeholders="1" name="Variable" id="gfbgqSLOdzBsAfATWBrb-12">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" parent="gfbgqSLOdzBsAfATWBrb-18" vertex="1">
+            <mxGeometry x="270" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Collaborate" placeholders="1" name="Variable" id="gfbgqSLOdzBsAfATWBrb-13">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" parent="gfbgqSLOdzBsAfATWBrb-18" vertex="1">
+            <mxGeometry x="360" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Settings" placeholders="1" name="Variable" id="gfbgqSLOdzBsAfATWBrb-14">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" parent="gfbgqSLOdzBsAfATWBrb-18" vertex="1">
+            <mxGeometry x="450" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="0KSBpzTL0000lEazQIPw-1" value="" style="shape=cross;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=15;fillColor=#1A1A1A;perimeterSpacing=0;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="490" width="15" height="15" as="geometry" />
+        </mxCell>
+        <UserObject label="Add another question" placeholders="1" name="Variable" id="0KSBpzTL0000lEazQIPw-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fillStyle=auto;strokeWidth=0;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="258.5" y="470" width="153" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
